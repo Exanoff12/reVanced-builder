@@ -1,0 +1,1 @@
+java -jar cli.jar -a yt.apk -b patches.jar -c -m integrations.apk -o vanced.apk -e custom-branding-icon-afn-red -e custom-branding-icon-revancify -e custom-branding-name -e enable-minimized-playback -e materialyou -e swipe-controls 
